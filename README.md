@@ -28,6 +28,10 @@ VRAM 6G 이상이고 컴퓨터로 작업하고 싶다면 이 부분은 안봐도
 
 실행을 눌러 다운로드(***구글 드라이브 여유공간 5G 이상!!***)하고
 오류 없이 다운됬다면 초록색의 링크를 타고 들어간다.
+
+사진
+
+이것이 webUI의 기본 화면이다. 
 <br/>
 ***
 ### 컴퓨터 버전의 WebUI
@@ -42,12 +46,24 @@ VRAM 6G 이상이고 컴퓨터로 작업하고 싶다면 이 부분은 안봐도
 
 ***
 
+### 모델 다운(필수)
+
+[합성을 위한 모델](https://huggingface.co/runwayml/stable-diffusion-inpainting/tree/main)
+목록에서 sd-v1-5-inpainting.ckpt 을 다운받아
+구글 드라이브에 SD > Models > Stable-Diffusion 에 넣는다.
+
+사진
+
+기본 화면에서 왼쪽위에 sd-v1-5-inpainting선택후 기다리기.
+(이상한거 누르면 멈출 수 있음)
+***
+
 ## 합성을 위한 기능(Inpaint)
 <br/>
 
 사진
 
-이것이 webUI의 기본 화면이다. 우리는 합성만 할것이니 Img2Img의
+우리는 합성만 할것이니 Img2Img의
 Inpaint 기능을 사용할거다.
 
 > Inpaint 기능은 사진에 특정 부분만 AI가 처리하도록 시키는
