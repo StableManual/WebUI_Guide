@@ -2,7 +2,7 @@
 
 •WebUI는 유저 인터페이스를 만들어 사람들이 보기 편하고 쉽게
   쓰게 만든 버전이다. 스테이블 디퓨전을 쓸려면 어려운 명령어를
-  사용하여 실행해야 하나 txt2txt, img2img, inpainting 등
+  사용하여 실행해야 하나 WebUI는 txt2txt, img2img, inpainting 기능 등
   을 쓰기 편하게 해준다. 우리는 깃허브에 automatic111이란 
   사람이 올린 버전이나 [아카라이브](https://arca.live/b/aiart/60472214)에
   애옹이도둑님이 올려준 코랩 버전을 쓸거다.
