@@ -42,7 +42,7 @@ VRAM 6G 이상이고 컴퓨터로 작업하고 싶다면 이 부분은 안봐도
 
 **[코랩 버전 다운로드](https://colab.research.google.com/drive/1nBaePtwcW_ds7OQdFebcxB91n_aORQY5#scrollTo=UGSqtUJPJoOj)**
 
-사본 복사하기 꼭 해주세여
+사본 만들기 꼭 해주세여
 
 실행을 눌러 다운로드(***구글 드라이브 여유공간 5G 이상!!***)하고
 오류 없이 다운됬다면 초록색의 링크를 타고 들어간다.
