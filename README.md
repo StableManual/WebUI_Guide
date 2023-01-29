@@ -97,7 +97,7 @@ Inpaint 기능을 사용할거다.
 
 ![무제13_20230129183154](https://user-images.githubusercontent.com/123804566/215317667-f550de6f-18ca-4a85-a833-36b487227d6a.png)
 
-사진
+![0129-174904_Crome](https://user-images.githubusercontent.com/123804566/215317748-2670de61-8ef5-404e-9158-c35e3d517520.jpg)
 
 <br/>
 <br/>
