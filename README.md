@@ -84,6 +84,13 @@ sd-v1-5-inpainting선택후 기다리기.
 [VAE 다운 사이트](https://huggingface.co/stabilityai/sd-vae-ft-mse)
 Evaluation COCO 2017 (256x256, val, 5000 images)에
 ft-MSE  840001 다운 후 구글 드라이브에 SD > Models > Vae 에 넣기
+
+![230129201747](https://user-images.githubusercontent.com/123804566/215322807-c9080826-3209-49a6-93ad-791de62035ac.png)
+사진 표시된 곳 눌러서 적용
+
+<br/>
+<br/>
+
 ***
 
 <br/>
