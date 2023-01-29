@@ -87,7 +87,7 @@ sd-v1-5-inpainting선택후 기다리기.
 ## 합성을 위한 기능(Inpaint)
 <br/>
 
-사진
+![무제12_20230129183112](https://user-images.githubusercontent.com/123804566/215317664-4ec372b5-14f8-4766-8b2a-524895714f5a.png)
 
 우리는 합성만 할것이니 Img2Img의
 Inpaint 기능을 사용할거다.
@@ -95,7 +95,7 @@ Inpaint 기능을 사용할거다.
 > Inpaint 기능은 사진에 특정 부분만 AI가 처리하도록 시키는
 기능이다. 잘 응용한다면 포토샵처럼 이용가능
 
-사진
+![무제13_20230129183154](https://user-images.githubusercontent.com/123804566/215317667-f550de6f-18ca-4a85-a833-36b487227d6a.png)
 
 사진
 
