@@ -53,7 +53,7 @@ VRAM 6G 이상이고 컴퓨터로 작업하고 싶다면 이 부분은 안봐도
 ![20230129-174828_Chrome](https://user-images.githubusercontent.com/123804566/215316943-43432151-daa3-4e6b-bf9a-0865158e629f.jpg)
 
 
-이것이 webUI의 기본 화면이다. 
+이것이 WebUI의 기본 화면이다. 
 <br/>
 ***
 ### 컴퓨터 버전의 WebUI
