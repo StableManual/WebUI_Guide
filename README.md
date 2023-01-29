@@ -152,12 +152,14 @@ _Only masked : 따로 재생성 후 축소해서 박아넣음_
 
 그 후 프롬프트 창에 Nude, Naked, (칠한 부분에 맞는 단어[가슴이면 chest 성기면 뭐뭐 등등 영어로..]) 입력
 
-![무제15_20230129184448](https://user-images.githubusercontent.com/123804566/215318228-ba421f22-4ad3-4a7e-8821-eb72da2cec83.png)
+![2020129184448](https://user-images.githubusercontent.com/123804566/215318228-ba421f22-4ad3-4a7e-8821-eb72da2cec83.png)
 
 그럼 실망스럽게 나온다. **포기하지마라 AI는 자신이 어떤 설정, 모델을 쓰고
 인내심을 들이냐에 따라 다른 결과가 나온다..**
 <br/>
 그렇기에 계속 생성해준다.
+
+![2030129184431](https://user-images.githubusercontent.com/123804566/215318323-35a1144b-61fc-4147-a1c8-71e432507be4.png)
 
 
 난 이게 마음에 들었다
