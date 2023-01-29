@@ -71,7 +71,7 @@ VRAM 6G 이상이고 컴퓨터로 작업하고 싶다면 이 부분은 안봐도
 목록에서 sd-v1-5-inpainting.ckpt 을 다운받아
 구글 드라이브에 SD > Models > Stable-Diffusion 에 넣는다.
 
-사진
+![Untitle11_208182548](https://user-images.githubusercontent.com/123804566/215317239-c52db694-c459-4481-8e37-9b73a07502d4.png)
 
 기본 화면에서 왼쪽위에 동그라미 친 부분 클릭 후
 sd-v1-5-inpainting선택후 기다리기.
