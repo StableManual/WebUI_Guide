@@ -41,11 +41,11 @@ VRAM 6G 이상이고 컴퓨터로 작업하고 싶다면 이 부분은 안봐도
 
 **[코랩 버전 다운로드](https://colab.research.google.com/drive/1nBaePtwcW_ds7OQdFebcxB91n_aORQY5#scrollTo=UGSqtUJPJoOj)**
 
-* 사본 만들기 꼭 해주세여
+* 사본 만들기 꼭 해줘야된다
 
 [Ngrok 터널 사용하기](https://dashboard.ngrok.com/get-started/your-authtoken)
 이 사이트 로그인 후 왼쪽 get-started 에 your-authtoken 의 토큰 복사 후
-코랩에 NGROK_API_TOKEN 칸에다 붙여넣기 해주세요..(Ngrok 이 로딩이 더 빠름)
+코랩에 NGROK_API_TOKEN 칸에다 붙여넣기 하기 (Ngrok 이 로딩이 더 빠름)
 
 실행을 눌러 다운로드(***구글 드라이브 여유공간 5G 이상!!***)하고
 오류 없이 다운됬다면 초록색의 링크를 타고 들어간다.
