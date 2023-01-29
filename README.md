@@ -139,7 +139,7 @@ _Only masked : 따로 재생성 후 축소해서 박아넣음_
 
 ## 합성시작
 
-사진
+![무제14_20230129183654](https://user-images.githubusercontent.com/123804566/215317929-b83f8765-32e7-4540-9d7f-5103eb6e5e0b.png)
  
 <br/>
 
@@ -147,8 +147,7 @@ _Only masked : 따로 재생성 후 축소해서 박아넣음_
 칠해준다.
 
 <br/>
-
-사진
+![무제14_20230129183811](https://user-images.githubusercontent.com/123804566/215317930-2ed923c0-3d2d-4b77-a60b-6becfd956461.png)
 
 그 후 프롬프트 창에 Nude, Naked, (칠한 부분에 맞는 단어[가슴이면 chest 성기면 뭐뭐 등등 영어로..]) 입력
 
