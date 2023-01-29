@@ -64,7 +64,7 @@ VRAM 6G 이상이고 컴퓨터로 작업하고 싶다면 이 부분은 안봐도
 
 ***
 
-### 모델 다운(필수)
+### 모델, VAE 다운(필수)
 
 [합성을 위한 모델](https://huggingface.co/runwayml/stable-diffusion-inpainting/tree/main)
 목록에서 sd-v1-5-inpainting.ckpt 을 다운받아
@@ -77,6 +77,13 @@ VRAM 6G 이상이고 컴퓨터로 작업하고 싶다면 이 부분은 안봐도
 기본 화면에서 왼쪽위에 동그라미 친 부분 클릭 후
 sd-v1-5-inpainting선택후 기다리기.
 (이상한거 누르면 멈출 수 있음)
+
+<br/>
+<br/>
+
+[VAE 다운 사이트](https://huggingface.co/stabilityai/sd-vae-ft-mse)
+Evaluation COCO 2017 (256x256, val, 5000 images)에
+ft-MSE  840001 다운 후 구글 드라이브에 SD > Models > Vae 에 넣기
 ***
 
 <br/>
