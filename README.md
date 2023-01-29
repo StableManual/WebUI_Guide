@@ -78,7 +78,7 @@ VRAM 6G 이상이고 컴퓨터로 작업하고 싶다면 이 부분은 안봐도
 
 ![Untitle10_202829182415](https://user-images.githubusercontent.com/123804566/215317287-c76089a7-b9c0-48ba-ab9b-0db01fd9585a.png)
 
-기본 화면에서 왼쪽위에 동그라미 친 부분 클릭 후
+그 후 기본 화면에서 왼쪽위에 동그라미 친 부분 클릭 후
 sd-v1-5-inpainting선택후 기다리기.
 (이상한거 누르면 멈출 수 있음)
 
