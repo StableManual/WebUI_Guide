@@ -85,7 +85,7 @@ sd-v1-5-inpainting선택후 기다리기.
 Evaluation COCO 2017 (256x256, val, 5000 images)에
 ft-MSE  840001 다운 후 구글 드라이브에 SD > Models > Vae 에 넣기
 
-그 후 setting의 user interface가면 quick setting list 있음 
+그 후 setting의 user interface가면 quick setting list 있음,
 거기에 sd_model_checkpoint, sd_vae 입력하고 다시시작하면 상단에 vae 선택할 수 있음
 ![230129201747](https://user-images.githubusercontent.com/123804566/215322807-c9080826-3209-49a6-93ad-791de62035ac.png)
 사진 표시된 곳 눌러서 적용
