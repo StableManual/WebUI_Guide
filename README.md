@@ -40,7 +40,7 @@ VRAM 6G 이상이고 컴퓨터로 작업하고 싶다면 이 부분은 안봐도
 코랩은 구글에서 운영하기 때문에 컴퓨터 사양을 잡지 않는다.(그림 너무
 많이 생성하면 코랩 일시적으로 사용불가.)
 
-**[코랩 버전](https://colab.research.google.com/drive/1nBaePtwcW_ds7OQdFebcxB91n_aORQY5#scrollTo=UGSqtUJPJoOj)**
+**[코랩 버전 다운로드](https://colab.research.google.com/drive/1nBaePtwcW_ds7OQdFebcxB91n_aORQY5#scrollTo=UGSqtUJPJoOj)**
 
 * 사본 만들기 꼭 해줘야된다
 
