@@ -40,13 +40,15 @@ VRAM 6G 이상이고 컴퓨터로 작업하고 싶다면 이 부분은 안봐도
 코랩은 구글에서 운영하기 때문에 컴퓨터 사양을 잡지 않는다.(그림 너무
 많이 생성하면 코랩 일시적으로 사용불가.)
 
-**[코랩 버전 다운로드](https://colab.research.google.com/drive/1nBaePtwcW_ds7OQdFebcxB91n_aORQY5#scrollTo=UGSqtUJPJoOj)**
+**[코랩 버전 다운로드](https://colab.research.google.com/drive/1nBaePtwcW_ds7OQdFebcxB91n_aORQY5)**
 
 * 사본 만들기 꼭 해줘야된다
 
 [Ngrok 터널 사용하기](https://dashboard.ngrok.com/get-started/your-authtoken)
 이 사이트 로그인 후 왼쪽 get-started 에 your-authtoken 의 토큰 복사 후
 코랩에 NGROK_API_TOKEN 칸에다 붙여넣기 하기 (Ngrok 이 로딩이 더 빠름)
+
+그 후 터널을 gradio 에서 ngrok 으로 변경
 
 코랩에서 실행을 눌러 다운로드(***구글 드라이브 여유공간 5G 이상!!***)하고 기다려라.
 오류 없이 다운됬다면 초록색의 링크를 타고 들어간다.
