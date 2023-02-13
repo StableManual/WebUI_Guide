@@ -2,8 +2,8 @@
 <br/>
 
 **목록**
-* WebUI 다운로드
-* 합성 강의 시작
+* [WebUI 다운로드](https://github.com/StableManual/WebUI_Guide)
+* [합성 강의 시작](https://github.com/StableManual/synthesis-steps.1)
 * 외국 포럼 합성 팁
 * 팁
 
