@@ -5,6 +5,7 @@
 * [WebUI 다운로드](https://github.com/StableManual/WebUI_Guide)
 * [합성 강의 시작](https://github.com/StableManual/synthesis-steps.1)
 * [외국 포럼 합성 팁](https://github.com/StableManual/Forum_synthesis_tips)
+* [얼싸 강의](https://github.com/StableManual/faceshot)
 * 팁
 
 
@@ -115,8 +116,3 @@ ft-MSE  840001 다운 후 구글 드라이브에 SD > Models > Vae 에 넣기
 [합성 강의 본편](https://github.com/StableManual/synthesis-steps.1)
 
 <br/>
-<br/>
-
-# (번외) AI얼싸 강의
-
-.
